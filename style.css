@@ -3,7 +3,6 @@ body {
     flex-direction: column;
     margin: 0;
     font-family: Roboto, sans-serif;
-
 }
 
 ul {
@@ -67,4 +66,67 @@ ul {
     justify-content: center;
     align-items: center;
     gap: 5%;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0 50px 0;
+    background-color: #E5E7EB;
+}
+
+.quote .quote-text {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.quote .quote-person {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.ad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ad .box {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 0.5;
+    gap: 20%;
+    padding: 20px 100px 20px 100px;
+    margin: 50px 0 50px 0;
+    border-radius: 8px;
+    color: #F9FAF8;
+}
+
+.ad p {
+    color: #E5E7EB;
+}
+
+.ad button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+    border: 1;
+    border-color: white;
+    border-radius: 8px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 10px 0 10px 0;
 }
