@@ -22,3 +22,5 @@ This project is licensed under the [MIT License](./LICENSE).
 ## Credits
 
 > Thanks to [Alejandro Mana](https://pixabay.com/users/alejandromana-20171032/) for the cat image. <img src="./images/cat-6047457_640.png" alt="image of a cat" width="50px">
+
+> Thanks to [Tenor](https://tenor.com/) for the cats GIFs.
